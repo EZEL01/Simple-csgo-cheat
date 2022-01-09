@@ -5,6 +5,14 @@
       <li>Go to <a href="https://github.com/frk1/hazedumper/blob/master/csgo.hpp" target="_blank">hazedumper/csgo.hpp</a> and copy paste this on <a href="https://github.com/lucasbuyatti/Simple-csgo-cheat/blob/master/offsets.h" target="_blank">Simple-csgo-cheat/offsets.h</a></li>
 </ul>
 
+### How to inject?
+<ul>
+      <li>Use manual map injection.</li>
+      <ul>
+            <li><a href="https://github.com/master131/ExtremeInjector/releases/tag/v3.7.3" target="_blank">Extreme Injector 3.7.3 (github)</a></li>
+            <li><a href="https://www.unknowncheats.me/forum/downloads.php?do=file&id=19516" target="_blank">AlisaAlis Injector (Unknowncheats)</a></li>
+      </ul>
+</ul>
 
 <hr>
 
