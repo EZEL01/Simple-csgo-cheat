@@ -2,7 +2,7 @@
 
 ### How to update the offsets?
 <ul>
-      <li>Go to <a href="url" target="_blank">hazedumper</a></li>
+      <li>Go to <a href="https://github.com/frk1/hazedumper/blob/master/csgo.hpp" target="_blank">hazedumper/csgo.hpp</a> and copy paste this on <a href="https://github.com/lucasbuyatti/Simple-csgo-cheat/blob/master/offsets.h" target="_blank">Simple-csgo-cheat/offsets.h</a></li>
 </ul>
 
 
