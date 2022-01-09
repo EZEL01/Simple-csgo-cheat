@@ -1,8 +1,9 @@
 # Init - Internal CSGO cheat
 
 ### How to update the offsets?
-Do it for yourself.
-
+<ul>
+      <li>Go to <a href="url" target="_blank">hazedumper</a></li>
+</ul>
 
 
 <ul>
