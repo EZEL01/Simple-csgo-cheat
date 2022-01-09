@@ -6,6 +6,9 @@
 </ul>
 
 
+<hr>
+
+
 <ul>
   <li>F1: GLOW</li>
   <li>F2: BHOP</li>
