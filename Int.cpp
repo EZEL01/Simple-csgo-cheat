@@ -178,7 +178,7 @@ DWORD WINAPI HackThread(HMODULE hmodule)
 					int eTeam = *(int*)(entity + hazedumper::netvars::m_iTeamNum);
 					int eHealth = *(int*)(entity + hazedumper::netvars::m_iHealth);
 
-					if (eTeam != LocalT && eHealth > 0 && eHealth < 3000)
+					if (eTeam != LocalT && eHealth > 0 && eHealth < 101)
 					{
 						Sleep(TriggerCustomDelay);
 						*(int*)(moduleBase + hazedumper::signatures::dwForceAttack) = 5;
