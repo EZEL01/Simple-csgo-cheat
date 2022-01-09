@@ -34,7 +34,7 @@
   <ul>
       <li>UP ARROW key increase FOV</li>
       <li>DOWN ARROW key decrease FOV</li>
-      <li>HOME set normal fov</li>
+      <li>HOME set normal FOV</li>
     </ul>
   <li>END: EXIT CHEAT</li>
 </ul> 
