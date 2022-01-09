@@ -1,5 +1,10 @@
 # Init - Internal CSGO cheat
 
+### How to update the offsets?
+Do it for yourself.
+
+
+
 <ul>
   <li>F1: GLOW</li>
   <li>F2: BHOP</li>
