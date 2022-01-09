@@ -12,6 +12,13 @@
     </ul>
    <li>F4: RADAR</li>
   <li>F9: NOFLASH</li>
+  <li>F10: THIRDPERSON</li>
+  <li>F11: FOV</li>
+  <ul>
+      <li>UP ARROW key increase FOV</li>
+      <li>DOWN ARROW key decrease FOV</li>
+      <li>HOME set normal fov</li>
+    </ul>
   <li>END: EXIT CHEAT</li>
 </ul> 
 
